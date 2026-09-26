@@ -1,4 +1,4 @@
-//4. Write a program to divide two numbers and display both the quotient(ভাগফল) and remainder(ভাগশেষ).
+//09. Write a program to divide two numbers and display both the quotient(ভাগফল) and remainder(ভাগশেষ).
 
 #include<stdio.h>
 
