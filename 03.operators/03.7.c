@@ -1,4 +1,4 @@
-//3. Write a C program to demonstrate the pre-increment (++) and pre-decrement (--) operators.
+//07. Write a C program to demonstrate the pre-increment (++) and pre-decrement (--) operators.
 
 #include<stdio.h>
 
