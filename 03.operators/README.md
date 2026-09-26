@@ -1,4 +1,4 @@
-### 02. Operators in C
+### 03. Operators in C
 
 In this directory, I practice various topics related to variables, data types, and operators from my university slides and lectures. My goal is to strengthen my understanding of how data is stored, represented, and manipulated in C programming as a beginner.
 
