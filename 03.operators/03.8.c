@@ -1,4 +1,4 @@
-//3. Write a C program to demonstrate the post-increment (++) and post-decrement (--) operators.
+//08. Write a C program to demonstrate the post-increment (++) and post-decrement (--) operators.
 
 #include<stdio.h>
 
