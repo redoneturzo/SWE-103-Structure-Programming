@@ -1,4 +1,4 @@
-//5. Write a C program to calculate the area and perimeter of a rectangle using arithmetic operators.
+//05. Write a C program to calculate the area and perimeter of a rectangle using arithmetic operators.
 
 #include<stdio.h>
 int main()
