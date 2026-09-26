@@ -1,4 +1,4 @@
-//2. Write a C program to find the average of two floating-point numbers.
+//06. Write a C program to find the average of two floating-point numbers.
 
 #include<stdio.h>
 int main()
