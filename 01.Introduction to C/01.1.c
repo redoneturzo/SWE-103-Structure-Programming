@@ -1,4 +1,10 @@
-///01.Write a C program to print ìWelcome to C Programmingî.
+/* This directory is covered the following topics:
+* Basic structure of C file and basic syntax of C.
+* Output formatting using: new line, horizontal tab, backslash, double qoute.
+* Enhancing code readability using C single line and multi-line comment. 
+*/
+
+//01.Write a C program to print ‚ÄúWelcome to C Programming‚Äù.
 
 #include<stdio.h>
 
