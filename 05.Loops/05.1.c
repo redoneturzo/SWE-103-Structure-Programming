@@ -1,5 +1,3 @@
-/// while, do while, for loop
-
 //01. Write a program using the while loop
 
 #include<stdio.h>
