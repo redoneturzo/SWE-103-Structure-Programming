@@ -1,7 +1,3 @@
-/* This directory is covered the following topics:
-* conditions: if-else, else if, ternary, switch.
-*/
-
 //01. Write a program to check whether a number is positive or negative using an if condition
 
 #include<stdio.h>
