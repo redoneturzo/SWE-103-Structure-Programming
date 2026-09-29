@@ -1,8 +1,3 @@
-/* This directory is covered the following topics:
-* types of operators in C: Arithemetic, Assingment, Comparision, Logical operators.
-* special case of pre-increment, pre-decrement, post-increment and post-decrement.
-*/
-
 // problem 01: Arithmetic operators
 
 #include<stdio.h>
